@@ -1,0 +1,12 @@
+.todosLosAutos {
+    border: solid 2px rgb(199, 199, 199);
+    border-radius: 5px;
+}
+
+.todosLosAutos h2 {
+    color: white;
+    background-color: rgb(243, 117, 59);
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+}

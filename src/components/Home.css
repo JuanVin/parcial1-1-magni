@@ -1,0 +1,26 @@
+.header h1{
+    font-size: 25px;
+    color: red
+}
+.header p{
+    font-size: 15px;
+}
+.header {
+    margin: 10px;
+    padding: 5px;
+}
+.destacados h2{
+    color: white;
+    background-color: rgb(243, 117, 59);
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+}
+.destacados {
+    border: solid 2px rgb(199, 199, 199);
+    border-radius: 5px;
+}
+.autos {
+    margin: 10px;
+    padding: 5px;
+}
